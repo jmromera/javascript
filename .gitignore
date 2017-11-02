@@ -1,0 +1,26 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/docs
+/node_modules
+conf/api.json
+*~
+.DS_Store
+log
+/lib
+/lib-cov
+.idea/
+dump.*
+# version.txt
+*.log
+src/newrelic_agent.log
+newrelic_agent.log
+
+# This works since git 1.8.2
+src/**/*.js
+src/**/*.map
+test/**.js
+test/**.map
+test/*.js
+test/*.map
+
+
